@@ -16,7 +16,7 @@
 >Run given command
 
 ```
-git clone https://github.com/itzDM/BookCRUD.git
+git clone https://github.com/itzDM/BookCRUD.git .
 ```
 ### step-4
 >Now move to api (manually or type below command)

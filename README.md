@@ -1,9 +1,6 @@
 # BookCRUD
 
-# Install Dependencies
-
-
-## To clone this repo  follow given step
+## Install Dependencies (Follow given Step )
 
 ### step-1
 > Move to that folder/Location where you Want your project

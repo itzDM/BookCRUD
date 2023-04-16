@@ -30,9 +30,9 @@ npm install
 ```
 ### step-6
 
->Set your PORT NUMBER and Mongodb DataBase URI in .env file 
->e.g PORT=300
->    MONGO_URI=mongodb://localhost:27017
+>Set your PORT NUMBER and Mongodb DataBase URI in .env file.  
+> e.g PORT=300    
+> MONGO_URI=mongodb://localhost:27017
 
 ### step-7
 >Run given command to start app
